@@ -2,20 +2,27 @@
 
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+This project consists of building a Cybersecurity home lab for detection and monitoring. This small-scale Active Directory lab for monitoring and detection walks through configuring, optimizing, and securing an IT infrastructure. Skills and knowledge gained in this lab can be applied to the real-world wether large-scale or small-scale enterprise infrastructure. 
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Bash script</b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 10</b>
+- <b>Splunk</b>
+- <b>Pfsense</b>
+- <b>Security Onion 2.4</b>
+- <b>Kali Linux</b>
+- <b>Ubuntu 24.04 desktop</b>
+- <b>Ubuntu 22.04 server</b>
+- <b>Windows 10 Server</b>
 
-<h2>Program walk-through:</h2>
+<h2>Project walk-through:</h2>
 
 <p align="center">
 Launch the utility: <br/>
